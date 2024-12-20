@@ -37,7 +37,7 @@
 
 ## API
 
-### POST `/calculate`
+### POST `/api/v1/calculate`
 
 #### Тело запроса
 ```json
